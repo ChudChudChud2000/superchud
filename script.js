@@ -204,7 +204,7 @@ function convertLink() {
     OrientDig: "&ref=100005658",
     Sugargoo: "&memberId=341947205705269884",
     Superbuy: "&partnercode=wyZt2e",
-    Mulebuy: "&ref=200024713",
+    Mulebuy: "&ref=200617513",
     Hoobuy: "?utm_source=QX1Ke4G8",
     Oopbuy: "?inviteCode=DWBB8ZQ4U",
     Kakobuy: "&affcode=dxf4z",
@@ -311,3 +311,4 @@ function convertLink() {
   listHTML += "</ul>";
   resultDiv.innerHTML = listHTML;
 }
+
